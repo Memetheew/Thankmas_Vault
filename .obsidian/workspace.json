@@ -11,9 +11,11 @@
             "id": "e4ff5206f58999f6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Visual Map.md"
+                "file": "Segments/Sub-Segments/Build Competition.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Visual Map.md",
+                "file": "Segments/Sub-Segments/Build Competition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Visual Map.md",
+                "file": "Segments/Sub-Segments/Build Competition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Visual Map.md"
+                "file": "Segments/Sub-Segments/Build Competition.md"
               }
             }
           },
@@ -158,10 +160,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.8\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "e4ff5206f58999f6",
+  "active": "7e55d792a843561e",
   "lastOpenFiles": [
-    "1-Visual Map.canvas",
     "Visual Map.md",
+    "1-Visual Map.canvas",
     "People/Myne.md",
     "People/EFS3.md",
     "People/CrimzonKrow.md",
