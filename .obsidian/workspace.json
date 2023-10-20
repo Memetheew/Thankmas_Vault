@@ -11,15 +11,26 @@
             "id": "e4ff5206f58999f6",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Visual Map.md"
+              }
+            }
+          },
+          {
+            "id": "e0dfa08a0bb373e3",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Segments/Sub-Segments/Thank You & Credits.md",
+                "file": "Segments/Sub-Segments/Mob Mashup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segments/Sub-Segments/Thank You & Credits.md",
+                "file": "Segments/Sub-Segments/Mob Mashup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segments/Sub-Segments/Thank You & Credits.md",
+                "file": "Segments/Sub-Segments/Mob Mashup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segments/Sub-Segments/Thank You & Credits.md"
+                "file": "Segments/Sub-Segments/Mob Mashup.md"
               }
             }
           },
@@ -160,13 +171,22 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.8\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "e4ff5206f58999f6",
+  "active": "e0dfa08a0bb373e3",
   "lastOpenFiles": [
+    "Visual Map.md",
+    "Segments/5-Break2-10PM.md",
+    "Segments/3-Break1-8PM.md",
+    "Segments/4-Roundtable1-8,30PM.md",
+    "Segments/6-Server Session-10,30PM.md",
+    "Segments/7-Misc-11PM.md",
+    "Segments/2-Power Hour-7PM.md",
+    "Segments/1-Welcome wagon-6PM.md",
+    "Resources/Assets List.md",
+    "Segments/Sub-Segments/Thank You & Credits.md",
     "Segments/Sub-Segments/Save The Kweebecs 2.0.md",
     "Segments/Sub-Segments/Mob Mashup.md",
     "Segments/Sub-Segments/Build Competition.md",
     "Segments/Sub-Segments/Hytale Awards.md",
-    "Visual Map.md",
     "1-Visual Map.canvas",
     "People/Myne.md",
     "People/EFS3.md",
@@ -180,16 +200,7 @@
     "People/Noah.md",
     "People/Moody.md",
     "People/Lynn.md",
-    "People/Evee.md",
-    "People/DairyPanda.md",
-    "People/CraftedMuffin.md",
-    "People/Codiak.md",
-    "People/Chaos.md",
-    "People/Nightie.md",
-    "People/Snowy.md",
-    "Resources/Assets List.md",
     "Resources/Random Images",
-    "conflict-files-obsidian-git.md",
     "Resources/Random Images/Pasted Image 20231019132234_408.png",
     "Pasted Image 20231019111125_854.png",
     "Pasted Image 20231019111358_942.png",

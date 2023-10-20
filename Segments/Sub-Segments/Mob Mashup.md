@@ -6,5 +6,6 @@
 - [[Memetheew]]
 ## Participants
 - [[Myne]]
+- [[EFS3]]
 - 
 # Resources
