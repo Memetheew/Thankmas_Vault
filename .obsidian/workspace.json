@@ -16,53 +16,8 @@
                 "file": "Visual Map.md"
               }
             }
-          },
-          {
-            "id": "7b225b825f19a6b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hi Hugo UwU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7431856a318c01b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pleaseworkpleaseworkpleasework.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1cec4b26ff67cb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PErosiguEfunCioNanDono.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bff26cda4d4f6832",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PErosiguEfunCioNanDono.md",
+                "file": "Visual Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PErosiguEfunCioNanDono.md",
+                "file": "Visual Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PErosiguEfunCioNanDono.md"
+                "file": "Visual Map.md"
               }
             }
           },
@@ -203,12 +158,13 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.8\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "f1cec4b26ff67cb0",
+  "active": "e4ff5206f58999f6",
   "lastOpenFiles": [
+    "Pulltest.md",
+    "Visual Map.md",
+    "Hi Hugo UwU.md",
     "Pleaseworkpleaseworkpleasework.md",
     "PErosiguEfunCioNanDono.md",
-    "Hi Hugo UwU.md",
-    "Visual Map.md",
     "Segments/Sub-Segments/Save The Kweebecs 2.0.md",
     "Segments/Sub-Segments/Mob Mashup.md",
     "Segments/Sub-Segments/Hytale Awards.md",
@@ -243,7 +199,6 @@
     "34cef359abdd7a335c2bda4b75c3fb0b_MD5.svg.md",
     "Resources/Icons",
     "People/BlitzStrike.md",
-    "People/Reddoons.md",
     "Segments/Sub-Segments",
     "People",
     "Resources",
