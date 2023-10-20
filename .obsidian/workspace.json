@@ -11,11 +11,9 @@
             "id": "e4ff5206f58999f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "People/EFS3.md",
-                "mode": "source",
-                "source": false
+                "file": "Visual Map.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/EFS3.md",
+                "file": "Visual Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/EFS3.md",
+                "file": "Visual Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/EFS3.md"
+                "file": "Visual Map.md"
               }
             }
           },
@@ -162,8 +160,12 @@
   },
   "active": "e4ff5206f58999f6",
   "lastOpenFiles": [
-    "People/Xanderhal.md",
+    "1-Visual Map.canvas",
+    "Visual Map.md",
+    "People/Myne.md",
     "People/EFS3.md",
+    "People/CrimzonKrow.md",
+    "People/Xanderhal.md",
     "People/Violet.md",
     "People/ThirtyVirus.md",
     "People/tacticalshroom.md",
@@ -180,16 +182,11 @@
     "People/Nightie.md",
     "People/Snowy.md",
     "Resources/Assets List.md",
-    "Visual Map.md",
     "Resources/Random Images",
-    "1-Visual Map.canvas",
     "conflict-files-obsidian-git.md",
     "Readme.md",
     "Pulltest.md",
     "Hi Hugo UwU.md",
-    "Pleaseworkpleaseworkpleasework.md",
-    "PErosiguEfunCioNanDono.md",
-    "Segments/Sub-Segments/Save The Kweebecs 2.0.md",
     "Resources/Random Images/Pasted Image 20231019132234_408.png",
     "Pasted Image 20231019111125_854.png",
     "Pasted Image 20231019111358_942.png",
