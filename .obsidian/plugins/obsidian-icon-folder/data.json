@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IbLightning",
+      "FasPoop",
       "LiBoxes",
       "RiTrophyLine",
-      "RiVipCrownFill",
-      "LiTrophy",
-      "IbLightning"
+      "RiVipCrownFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -32,8 +32,9 @@
   "Segments/3-Break1-8PM.md": "FasStopwatch",
   "Resources/Goals.md": "LiTrophy",
   "People/CrimzonKrow.md": "RiVipCrownFill",
-  "People/Connor.md": "RiVipCrownFill",
-  "People/BlitzStrike.md": "RiVipCrownFill",
+  "People/Connor.md": "FasPoop",
+  "People/BlitzStrike.md": "IbLightning",
   "Segments/Sub-Segments/Hytale Awards.md": "RiTrophyLine",
-  "Segments/Sub-Segments/Build Competition.md": "LiBoxes"
+  "Segments/Sub-Segments/Build Competition.md": "LiBoxes",
+  "People/Memetheew.md": "RiVipCrownFill"
 }
