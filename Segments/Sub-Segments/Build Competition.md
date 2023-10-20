@@ -7,6 +7,7 @@ Connor will go to the building server, there will be a private plots sub-server 
 Connor will just revisit the plot server and review the progress on some builds. Then remember people that they can join the competition.
 - Remember everyone that they can join the competition (Explain how it works, rules and how much time is left)
 - Review some builds (admins shall banish any NSFW build)
-## Build Competition
+## Build Competition Awards
+Connor will review all builds and the winner will be decided
 # Roles
 # Resources
