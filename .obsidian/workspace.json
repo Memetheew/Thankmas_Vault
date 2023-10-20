@@ -11,15 +11,26 @@
             "id": "e4ff5206f58999f6",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Visual Map.md"
+              }
+            }
+          },
+          {
+            "id": "3056026f8a612328",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Goals.md",
+                "file": "Segments/Sub-Segments/Hytale Awards.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Goals.md",
+                "file": "Segments/Sub-Segments/Hytale Awards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Goals.md",
+                "file": "Segments/Sub-Segments/Hytale Awards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Goals.md"
+                "file": "Segments/Sub-Segments/Hytale Awards.md"
               }
             }
           },
@@ -160,14 +171,15 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.8\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "7e55d792a843561e",
+  "active": "3056026f8a612328",
   "lastOpenFiles": [
     "Visual Map.md",
-    "Resources/Goals.md",
+    "Segments/Sub-Segments/Hytale Awards.md",
     "Segments/Sub-Segments/Build Competition.md",
+    "Segments/2-Power Hour-10PM.md",
+    "Resources/Goals.md",
     "Resources/Assets List.md",
     "Thankmas bundle.md",
-    "Segments/Sub-Segments/Hytale Awards.md",
     "Segments/Sub-Segments/Mob Mashup.md",
     "Segments/Sub-Segments/Save The Kweebecs 2.0.md",
     "Segments/Sub-Segments/Thank You & Credits.md",
@@ -176,7 +188,6 @@
     "Segments/4-Roundtable1-8,30PM.md",
     "Segments/6-Server Session-10,30PM.md",
     "Segments/7-Misc-11PM.md",
-    "Segments/2-Power Hour-7PM.md",
     "Segments/1-Welcome wagon-6PM.md",
     "1-Visual Map.canvas",
     "People/Myne.md",

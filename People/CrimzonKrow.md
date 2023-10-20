@@ -1,5 +1,5 @@
 # Segments
-- [[2-Power Hour-7PM]] as Manager/Organizer
+- [[2-Power Hour-10PM]] as Manager/Organizer
 # Contributions
 - Donation rewards
 # Roles

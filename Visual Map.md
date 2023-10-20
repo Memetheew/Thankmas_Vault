@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Text Elements
 [[1-Welcome wagon-6PM]] ^fR8Hl3KS
 
-[[2-Power Hour-7PM]] ^h3IzpY4t
+[[2-Power Hour-10PM]] ^h3IzpY4t
 
 [[4-Roundtable1-8,30PM]] ^YTWHvLdG
 
@@ -42,7 +42,7 @@ tags: [excalidraw]
 
 [[1-Welcome wagon-6PM]] ^bba2g2UH
 
-[[2-Power Hour-7PM]] ^wONKwcVD
+[[2-Power Hour-10PM]] ^wONKwcVD
 
 [[6-Server Session-10,30PM]] ^hGEPfnaC
 
@@ -66,9 +66,9 @@ tags: [excalidraw]
 
 [[1-Welcome wagon-6PM#Server Kick-Off]] ^1VefDRX6
 
-[[2-Power Hour-7PM#Animated Segment]] ^VEeI22yu
+[[2-Power Hour-10PM#Animated Segment]] ^VEeI22yu
 
-[[2-Power Hour-7PM#Discussions]] ^HUyXbWYC
+[[2-Power Hour-10PM#Discussions]] ^HUyXbWYC
 
 [[Mob Mashup#Mob Mashup Revisit]] ^8vyjOvl4
 
