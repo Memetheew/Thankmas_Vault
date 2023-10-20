@@ -19,10 +19,8 @@
             "id": "bff26cda4d4f6832",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Visual Map.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -156,10 +154,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "templater-obsidian:Templater": false,
       "obsidian-projects:Open projects": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
+      "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e4ff5206f58999f6",

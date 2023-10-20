@@ -20,7 +20,9 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconsBackgroundCheckEnabled": false
   },
   "Segments/4-Roundtable1-8,30PM.md": "LiMic",
   "Segments/10-Roundtable2-12,30AM.md": "LiMic",
