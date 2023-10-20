@@ -88,6 +88,8 @@ tags: [excalidraw]
 
 [[Thank You & Credits]] ^j78VOMpT
 
+[[Goals]] ^WN6fpCmD
+
 
 # Embedded files
 7f59adc64ab8bdaa5a36ae6caa85f57077b3cd31: [[Pasted Image 20231019132234_408.png]]
@@ -98,12 +100,12 @@ tags: [excalidraw]
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.20",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.24",
 	"elements": [
 		{
 			"type": "embeddable",
-			"version": 307,
-			"versionNonce": 303915857,
+			"version": 308,
+			"versionNonce": 2075438477,
 			"isDeleted": false,
 			"id": "5IaOXnx3",
 			"fillStyle": "hachure",
@@ -128,15 +130,15 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697754353069,
+			"updated": 1697845195905,
 			"link": "[[4-Roundtable1-8,30PM]]",
 			"locked": false,
 			"validated": true
 		},
 		{
 			"type": "embeddable",
-			"version": 177,
-			"versionNonce": 861533759,
+			"version": 178,
+			"versionNonce": 1231060419,
 			"isDeleted": false,
 			"id": "bba2g2UH",
 			"fillStyle": "hachure",
@@ -185,7 +187,7 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697754353069,
+			"updated": 1697845195905,
 			"link": "[[1-Welcome wagon-6PM]]",
 			"locked": false,
 			"validated": true
@@ -229,8 +231,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "embeddable",
-			"version": 122,
-			"versionNonce": 241096287,
+			"version": 123,
+			"versionNonce": 1497461741,
 			"isDeleted": false,
 			"id": "wONKwcVD",
 			"fillStyle": "hachure",
@@ -263,15 +265,15 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697754353069,
+			"updated": 1697845195905,
 			"link": "[[2-Power Hour-7PM]]",
 			"locked": false,
 			"validated": true
 		},
 		{
 			"type": "embeddable",
-			"version": 334,
-			"versionNonce": 550170879,
+			"version": 335,
+			"versionNonce": 1823591779,
 			"isDeleted": false,
 			"id": "VEeI22yu",
 			"fillStyle": "hachure",
@@ -296,15 +298,15 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697754358297,
+			"updated": 1697845195905,
 			"link": "[[2-Power Hour-7PM#Animated Segment]]",
 			"locked": false,
 			"validated": true
 		},
 		{
 			"type": "embeddable",
-			"version": 363,
-			"versionNonce": 751547185,
+			"version": 364,
+			"versionNonce": 1244032589,
 			"isDeleted": false,
 			"id": "HUyXbWYC",
 			"fillStyle": "hachure",
@@ -329,7 +331,7 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697754362511,
+			"updated": 1697845195905,
 			"link": "[[2-Power Hour-7PM#Discussions]]",
 			"locked": false,
 			"validated": true
@@ -420,8 +422,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "embeddable",
-			"version": 259,
-			"versionNonce": 922530513,
+			"version": 260,
+			"versionNonce": 611854595,
 			"isDeleted": false,
 			"id": "hGEPfnaC",
 			"fillStyle": "hachure",
@@ -454,7 +456,7 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697754353069,
+			"updated": 1697845195905,
 			"link": "[[6-Server Session-10,30PM]]",
 			"locked": false,
 			"validated": true
@@ -851,8 +853,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "embeddable",
-			"version": 98,
-			"versionNonce": 1248544607,
+			"version": 99,
+			"versionNonce": 490544301,
 			"isDeleted": false,
 			"id": "VdGpJclV",
 			"fillStyle": "hachure",
@@ -881,7 +883,7 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697754353070,
+			"updated": 1697845195905,
 			"link": "[[7-Misc-11PM]]",
 			"locked": false,
 			"validated": true
@@ -930,8 +932,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "embeddable",
-			"version": 150,
-			"versionNonce": 359203711,
+			"version": 151,
+			"versionNonce": 909250723,
 			"isDeleted": false,
 			"id": "B2VofQMN",
 			"fillStyle": "hachure",
@@ -956,7 +958,7 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697754353070,
+			"updated": 1697845195905,
 			"link": "[[8-Gameshow-11,15PM]]",
 			"locked": false,
 			"validated": true
@@ -1005,8 +1007,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "embeddable",
-			"version": 106,
-			"versionNonce": 228211615,
+			"version": 107,
+			"versionNonce": 170852109,
 			"isDeleted": false,
 			"id": "ITAoVijC",
 			"fillStyle": "hachure",
@@ -1031,7 +1033,7 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697754353070,
+			"updated": 1697845195905,
 			"link": "[[10-Roundtable2-12,30AM]]",
 			"locked": false,
 			"validated": true
@@ -1080,8 +1082,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "embeddable",
-			"version": 90,
-			"versionNonce": 925855679,
+			"version": 91,
+			"versionNonce": 864945219,
 			"isDeleted": false,
 			"id": "4ZC97sMi",
 			"fillStyle": "hachure",
@@ -1114,7 +1116,7 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697754353070,
+			"updated": 1697845195905,
 			"link": "[[11-Casual Gaming-1,30AM]]",
 			"locked": false,
 			"validated": true
@@ -1163,8 +1165,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "embeddable",
-			"version": 139,
-			"versionNonce": 1011425247,
+			"version": 140,
+			"versionNonce": 393581933,
 			"isDeleted": false,
 			"id": "NIFIT9fj",
 			"fillStyle": "hachure",
@@ -1197,7 +1199,7 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697754353070,
+			"updated": 1697845195905,
 			"link": "[[12-Closing Ceremony-2AM]]",
 			"locked": false,
 			"validated": true
@@ -1246,8 +1248,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "embeddable",
-			"version": 740,
-			"versionNonce": 787991551,
+			"version": 741,
+			"versionNonce": 1953137635,
 			"isDeleted": false,
 			"id": "LGSfGl73",
 			"fillStyle": "hachure",
@@ -1272,15 +1274,15 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697754353070,
+			"updated": 1697845195905,
 			"link": "[[1-Welcome wagon-6PM#Pre Recorded Establishing Video]]",
 			"locked": false,
 			"validated": true
 		},
 		{
 			"type": "embeddable",
-			"version": 471,
-			"versionNonce": 909784945,
+			"version": 472,
+			"versionNonce": 1079664589,
 			"isDeleted": false,
 			"id": "THZTjApe",
 			"fillStyle": "hachure",
@@ -1305,15 +1307,15 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697754353070,
+			"updated": 1697845195905,
 			"link": "[[1-Welcome wagon-6PM#Intro, Causes & Contents]]",
 			"locked": false,
 			"validated": true
 		},
 		{
 			"type": "embeddable",
-			"version": 478,
-			"versionNonce": 188478495,
+			"version": 479,
+			"versionNonce": 1356205955,
 			"isDeleted": false,
 			"id": "RFJuiSNk",
 			"fillStyle": "hachure",
@@ -1338,15 +1340,15 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697754353070,
+			"updated": 1697845195905,
 			"link": "[[1-Welcome wagon-6PM#Dono Goals & Rewards]]",
 			"locked": false,
 			"validated": true
 		},
 		{
 			"type": "embeddable",
-			"version": 420,
-			"versionNonce": 1304699217,
+			"version": 421,
+			"versionNonce": 1526128173,
 			"isDeleted": false,
 			"id": "80BxH93m",
 			"fillStyle": "hachure",
@@ -1371,15 +1373,15 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697754353070,
+			"updated": 1697845195905,
 			"link": "[[1-Welcome wagon-6PM#5 Year Anniversary]]",
 			"locked": false,
 			"validated": true
 		},
 		{
 			"type": "embeddable",
-			"version": 460,
-			"versionNonce": 2030442559,
+			"version": 461,
+			"versionNonce": 453977891,
 			"isDeleted": false,
 			"id": "1VefDRX6",
 			"fillStyle": "hachure",
@@ -1404,7 +1406,7 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697754353070,
+			"updated": 1697845195905,
 			"link": "[[1-Welcome wagon-6PM#Server Kick-Off]]",
 			"locked": false,
 			"validated": true
@@ -2543,8 +2545,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "embeddable",
-			"version": 241,
-			"versionNonce": 2137600753,
+			"version": 242,
+			"versionNonce": 1043632269,
 			"isDeleted": false,
 			"id": "8vyjOvl4",
 			"fillStyle": "hachure",
@@ -2569,15 +2571,15 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697754384369,
+			"updated": 1697845195905,
 			"link": "[[Mob Mashup#Mob Mashup Revisit]]",
 			"locked": false,
 			"validated": true
 		},
 		{
 			"type": "embeddable",
-			"version": 767,
-			"versionNonce": 103403473,
+			"version": 768,
+			"versionNonce": 1501842115,
 			"isDeleted": false,
 			"id": "2ZEmE8nU",
 			"fillStyle": "hachure",
@@ -2602,7 +2604,7 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697754353070,
+			"updated": 1697845195905,
 			"link": "[[Mob Mashup#Mob Mashup KickOff]]",
 			"locked": false,
 			"validated": true
@@ -2665,8 +2667,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "embeddable",
-			"version": 176,
-			"versionNonce": 1925143697,
+			"version": 177,
+			"versionNonce": 667743981,
 			"isDeleted": false,
 			"id": "co5Re5vA",
 			"fillStyle": "hachure",
@@ -2691,15 +2693,15 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697754393760,
+			"updated": 1697845195905,
 			"link": "[[Save The Kweebecs 2.0]]",
 			"locked": false,
 			"validated": true
 		},
 		{
 			"type": "embeddable",
-			"version": 342,
-			"versionNonce": 512494719,
+			"version": 343,
+			"versionNonce": 1087634019,
 			"isDeleted": false,
 			"id": "OjpUeCed",
 			"fillStyle": "hachure",
@@ -2724,15 +2726,15 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697754379564,
+			"updated": 1697845195905,
 			"link": "[[Save The Kweebecs 2.0]]",
 			"locked": false,
 			"validated": true
 		},
 		{
 			"type": "embeddable",
-			"version": 132,
-			"versionNonce": 1769940031,
+			"version": 133,
+			"versionNonce": 1648988493,
 			"isDeleted": false,
 			"id": "SJ6iyCyX",
 			"fillStyle": "hachure",
@@ -2757,15 +2759,15 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697754390506,
+			"updated": 1697845195905,
 			"link": "[[Build Competition#Build Competition Revisit]]",
 			"locked": false,
 			"validated": true
 		},
 		{
 			"type": "embeddable",
-			"version": 392,
-			"versionNonce": 1211128575,
+			"version": 393,
+			"versionNonce": 1842132483,
 			"isDeleted": false,
 			"id": "5Fprl6v7",
 			"fillStyle": "hachure",
@@ -2790,15 +2792,15 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697754398998,
+			"updated": 1697845195905,
 			"link": "[[Build Competition#Build Competition Revisit]]",
 			"locked": false,
 			"validated": true
 		},
 		{
 			"type": "embeddable",
-			"version": 393,
-			"versionNonce": 1428489201,
+			"version": 394,
+			"versionNonce": 721674157,
 			"isDeleted": false,
 			"id": "WUHQeS2H",
 			"fillStyle": "hachure",
@@ -2823,7 +2825,7 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697754376363,
+			"updated": 1697845195905,
 			"link": "[[Build Competition#Build Competition Start]]",
 			"locked": false,
 			"validated": true
@@ -2942,8 +2944,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "embeddable",
-			"version": 278,
-			"versionNonce": 1764543057,
+			"version": 279,
+			"versionNonce": 1600978339,
 			"isDeleted": false,
 			"id": "AIUt8cSH",
 			"fillStyle": "hachure",
@@ -2968,15 +2970,15 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697754403616,
+			"updated": 1697845195905,
 			"link": "[[Hytale Awards]]",
 			"locked": false,
 			"validated": true
 		},
 		{
 			"type": "embeddable",
-			"version": 255,
-			"versionNonce": 1375838175,
+			"version": 256,
+			"versionNonce": 1478844941,
 			"isDeleted": false,
 			"id": "j78VOMpT",
 			"fillStyle": "hachure",
@@ -3001,7 +3003,7 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697754406721,
+			"updated": 1697845195905,
 			"link": "[[Thank You & Credits]]",
 			"locked": false,
 			"validated": true
@@ -3173,6 +3175,33 @@ tags: [excalidraw]
 					172.74612818489095
 				]
 			]
+		},
+		{
+			"id": "WN6fpCmD",
+			"type": "embeddable",
+			"x": 2596.327821701989,
+			"y": -817.8884976500135,
+			"width": 500,
+			"height": 500,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"roundness": null,
+			"seed": 7124,
+			"version": 26,
+			"versionNonce": 949148451,
+			"updated": 1697845235032,
+			"isDeleted": false,
+			"groupIds": [],
+			"boundElements": [],
+			"link": "[[Goals]]",
+			"locked": false,
+			"validated": true
 		}
 	],
 	"appState": {
@@ -3190,10 +3219,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 3107.0701087570387,
-		"scrollY": 1892.418518888131,
+		"scrollX": 795.3390484151989,
+		"scrollY": 1038.8259976500135,
 		"zoom": {
-			"value": 0.1
+			"value": 0.2
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

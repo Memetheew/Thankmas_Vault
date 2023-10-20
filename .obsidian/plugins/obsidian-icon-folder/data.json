@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "IbLightning",
-      "FasFire",
-      "TiDeviceCameraPhone",
-      "FasStopwatch",
-      "FarCirclePause"
+      "LiBoxes",
+      "RiTrophyLine",
+      "RiVipCrownFill",
+      "LiTrophy",
+      "IbLightning"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -29,5 +29,11 @@
   "Segments/12-Closing Ceremony-2AM.md": "RiCloseCircleLine",
   "Segments/9-Break3-12AM.md": "FasStopwatch",
   "Segments/5-Break2-10PM.md": "FasStopwatch",
-  "Segments/3-Break1-8PM.md": "FasStopwatch"
+  "Segments/3-Break1-8PM.md": "FasStopwatch",
+  "Resources/Goals.md": "LiTrophy",
+  "People/CrimzonKrow.md": "RiVipCrownFill",
+  "People/Connor.md": "RiVipCrownFill",
+  "People/BlitzStrike.md": "RiVipCrownFill",
+  "Segments/Sub-Segments/Hytale Awards.md": "RiTrophyLine",
+  "Segments/Sub-Segments/Build Competition.md": "LiBoxes"
 }
