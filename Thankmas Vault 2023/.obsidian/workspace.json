@@ -11,8 +11,10 @@
             "id": "e4ff5206f58999f6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Visual Map.md"
+              }
             }
           },
           {
@@ -89,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Visual Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Visual Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Visual Map.md"
+              }
             }
           },
           {
@@ -154,10 +160,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-projects:Open projects": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.8\r\nLocalize attachments (plugin folder)": false
     }
   },
   "active": "e4ff5206f58999f6",
