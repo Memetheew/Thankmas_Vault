@@ -11,9 +11,11 @@
             "id": "e4ff5206f58999f6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Visual Map.md"
+                "file": "People/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Visual Map.md",
+                "file": "People/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Visual Map.md",
+                "file": "People/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Visual Map.md"
+                "file": "People/Untitled.md"
               }
             }
           },
@@ -160,8 +162,12 @@
   },
   "active": "e4ff5206f58999f6",
   "lastOpenFiles": [
-    "1-Visual Map.canvas",
+    "People/Snowy.md",
+    "People/Untitled.md",
+    "Resources/Assets List.md",
     "Visual Map.md",
+    "Resources/Random Images",
+    "1-Visual Map.canvas",
     "conflict-files-obsidian-git.md",
     "Readme.md",
     "Pulltest.md",
@@ -178,7 +184,7 @@
     "People/AdAstra.md",
     "Segments/10-Roundtable2-12,30AM.md",
     "Segments/8-Gameshow-11,15PM.md",
-    "Resources/Pasted Image 20231019132234_408.png",
+    "Resources/Random Images/Pasted Image 20231019132234_408.png",
     "Pasted Image 20231019111125_854.png",
     "Pasted Image 20231019111358_942.png",
     "Pasted Image 20231019131919_309.png",
@@ -189,14 +195,12 @@
     "Segments/7-Misc-11PM.md",
     "Segments/4-Roundtable1-8,30PM.md",
     "Segments/1-Welcome wagon-6PM.md",
-    "Segments/3-Break1-8PM.md",
-    "excalibrain.md",
     "Excalidraw",
-    "Resources/Power Hour.png",
-    "Resources/Roundtable.jpg",
-    "Resources/Gameshow-of-Gameshows-Web-Banner1-aspect-ratio-1-1.webp",
-    "Resources/Thankmas_coin.png",
-    "Resources/Thankmas_end.webp",
+    "Resources/Random Images/Power Hour.png",
+    "Resources/Random Images/Roundtable.jpg",
+    "Resources/Random Images/Gameshow-of-Gameshows-Web-Banner1-aspect-ratio-1-1.webp",
+    "Resources/Random Images/Thankmas_coin.png",
+    "Resources/Random Images/Thankmas_end.webp",
     "Resources/Icons",
     "Segments/Sub-Segments",
     "People",
@@ -205,7 +209,6 @@
     "Proyectos/Libros",
     "Crecimiento Personal/Escultismo/Projecte Educació ambiental",
     "Crecimiento Personal/Arte/Universidad/Storyboarding/Clase 10-10-23",
-    "Universidad/Storyboarding",
     "Proyectos/Casas/Biniatzent/Biniatzent canvas.canvas"
   ]
 }
