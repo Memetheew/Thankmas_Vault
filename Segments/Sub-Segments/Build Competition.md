@@ -8,6 +8,16 @@ Connor will just revisit the plot server and review the progress on some builds.
 - Remember everyone that they can join the competition (Explain how it works, rules and how much time is left)
 - Review some builds (admins shall banish any NSFW build)
 ## Build Competition Awards
-Connor will review all builds and the winner will be decided
+Connor will review all builds and the winner will be decided by the COUNCIL
+- Hugo makes everone unable to place or break blocks
+- Connor reviews each and every build
+- The Council decides the winner and prizes are sent
+# Segment Esplanation
+
 # Roles
+## Developer
+- [[Hugo]]
+## Council
+- [[Connor]]
+- 
 # Resources

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segments/Sub-Segments/Build Competition.md",
+                "file": "Segments/Sub-Segments/Thank You & Credits.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segments/Sub-Segments/Build Competition.md",
+                "file": "Segments/Sub-Segments/Thank You & Credits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segments/Sub-Segments/Build Competition.md",
+                "file": "Segments/Sub-Segments/Thank You & Credits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segments/Sub-Segments/Build Competition.md"
+                "file": "Segments/Sub-Segments/Thank You & Credits.md"
               }
             }
           },
@@ -160,8 +160,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.8\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "7e55d792a843561e",
+  "active": "e4ff5206f58999f6",
   "lastOpenFiles": [
+    "Segments/Sub-Segments/Save The Kweebecs 2.0.md",
+    "Segments/Sub-Segments/Mob Mashup.md",
+    "Segments/Sub-Segments/Build Competition.md",
+    "Segments/Sub-Segments/Hytale Awards.md",
     "Visual Map.md",
     "1-Visual Map.canvas",
     "People/Myne.md",
@@ -186,9 +190,6 @@
     "Resources/Assets List.md",
     "Resources/Random Images",
     "conflict-files-obsidian-git.md",
-    "Readme.md",
-    "Pulltest.md",
-    "Hi Hugo UwU.md",
     "Resources/Random Images/Pasted Image 20231019132234_408.png",
     "Pasted Image 20231019111125_854.png",
     "Pasted Image 20231019111358_942.png",
