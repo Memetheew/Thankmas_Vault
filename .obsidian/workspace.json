@@ -18,6 +18,18 @@
             }
           },
           {
+            "id": "7b225b825f19a6b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hi Hugo UwU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bff26cda4d4f6832",
             "type": "leaf",
             "state": {
@@ -25,7 +37,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Visual Map.md",
+                "file": "Hi Hugo UwU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Visual Map.md",
+                "file": "Hi Hugo UwU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Visual Map.md"
+                "file": "Hi Hugo UwU.md"
               }
             }
           },
@@ -166,9 +179,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.8\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "e4ff5206f58999f6",
+  "active": "7b225b825f19a6b7",
   "lastOpenFiles": [
     "Visual Map.md",
+    "Hi Hugo UwU.md",
     "Segments/Sub-Segments/Save The Kweebecs 2.0.md",
     "Segments/Sub-Segments/Mob Mashup.md",
     "Segments/Sub-Segments/Hytale Awards.md",
@@ -206,7 +220,6 @@
     "People/Reddoons.md",
     "People/realAnkis.md",
     "People/Quattra.md",
-    "People/Powerbyte7.md",
     "Segments/Sub-Segments",
     "People",
     "Resources",
