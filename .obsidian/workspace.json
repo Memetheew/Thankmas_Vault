@@ -11,9 +11,11 @@
             "id": "e4ff5206f58999f6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Visual Map.md"
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Visual Map.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Visual Map.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Visual Map.md"
+                "file": "Readme.md"
               }
             }
           },
@@ -160,8 +162,9 @@
   },
   "active": "e4ff5206f58999f6",
   "lastOpenFiles": [
-    "Pulltest.md",
     "Visual Map.md",
+    "Readme.md",
+    "Pulltest.md",
     "Hi Hugo UwU.md",
     "Pleaseworkpleaseworkpleasework.md",
     "PErosiguEfunCioNanDono.md",
@@ -198,7 +201,6 @@
     "Resources/Thankmas_end.webp",
     "34cef359abdd7a335c2bda4b75c3fb0b_MD5.svg.md",
     "Resources/Icons",
-    "People/BlitzStrike.md",
     "Segments/Sub-Segments",
     "People",
     "Resources",
