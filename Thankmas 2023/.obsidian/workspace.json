@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "97dcb4842989f616",
+    "type": "split",
+    "children": [
+      {
+        "id": "e431b1aeabf8a865",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4ff5206f58999f6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "bff26cda4d4f6832",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Visual Map.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a069261f5af9ca0",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd3f6d4cdd025692",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e55d792a843561e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4cece94ec6fa7e72",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f590a6f078a3e62c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0f0233461c3c59a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "06e5c9e3914470bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "929eb5f34974d7c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7fffb64edc91055f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5aab2747f91f737",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c30eab0e954323e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "57236ec45510e99e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
+    }
+  },
+  "active": "e4ff5206f58999f6",
+  "lastOpenFiles": [
+    "Visual Map.md",
+    "Segments/Sub-Segments/Save The Kweebecs 2.0.md",
+    "Segments/Sub-Segments/Mob Mashup.md",
+    "Segments/Sub-Segments/Hytale Awards.md",
+    "Segments/Sub-Segments/Thank You & Credits.md",
+    "Segments/Sub-Segments/Build Competition.md",
+    "Segments/6-Server Session-10,30PM.md",
+    "Segments/2-Power Hour-7PM.md",
+    "People/AdAstra.md",
+    "Segments/10-Roundtable2-12,30AM.md",
+    "Segments/8-Gameshow-11,15PM.md",
+    "Resources/Pasted Image 20231019132234_408.png",
+    "1-Visual Map.canvas",
+    "Pasted Image 20231019111125_854.png",
+    "Pasted Image 20231019111358_942.png",
+    "Pasted Image 20231019131919_309.png",
+    "Pasted Image 20231019132004_339.png",
+    "Segments/12-Closing Ceremony-2AM.md",
+    "Segments/11-Casual Gaming-1,30AM.md",
+    "Segments/9-Break3-12AM.md",
+    "Segments/7-Misc-11PM.md",
+    "Segments/4-Roundtable1-8,30PM.md",
+    "Segments/1-Welcome wagon-6PM.md",
+    "Segments/3-Break1-8PM.md",
+    "excalibrain.md",
+    "Excalidraw/Drawing 2023-10-19 05.20.23.excalidraw.md",
+    "Excalidraw",
+    "Resources/Power Hour.png",
+    "Resources/Roundtable.jpg",
+    "Resources/Gameshow-of-Gameshows-Web-Banner1-aspect-ratio-1-1.webp",
+    "Resources/Thankmas_coin.png",
+    "Resources/Thankmas_end.webp",
+    "34cef359abdd7a335c2bda4b75c3fb0b_MD5.svg.md",
+    "Resources/Icons",
+    "People/BlitzStrike.md",
+    "People/Reddoons.md",
+    "People/realAnkis.md",
+    "People/Quattra.md",
+    "People/Powerbyte7.md",
+    "Segments/Sub-Segments",
+    "People",
+    "Resources",
+    "Segments",
+    "Proyectos/Libros",
+    "Crecimiento Personal/Escultismo/Projecte Educació ambiental",
+    "Crecimiento Personal/Arte/Universidad/Storyboarding/Clase 10-10-23",
+    "Universidad/Storyboarding",
+    "Proyectos/Casas/Biniatzent/Biniatzent canvas.canvas"
+  ]
+}

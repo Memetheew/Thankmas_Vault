@@ -1,0 +1,183 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Ideas/Galactale",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "1524af40-3293-4019-9415-72cc057edb73",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "b0d9faac-9908-49dd-9102-0fd3088164f4",
+      "name": "Galactale"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Ideas/Anarchytale",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "50284c4f-21ba-4cae-b559-621de598f7b9",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "eded351f-78f1-4c73-b4ea-3bec27ea6083",
+      "name": "Anarchytale"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Ideas/El Nido Scarak",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "65561265-2eb3-4db0-a39a-ddcf6863cc7d",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "a287f7b3-8dc5-477f-b2f6-d8c420c7ea6c",
+      "name": "El Nido Scarak"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Ideas/Hytale Union",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "e0fedb66-9a26-4556-a27c-687fab398829",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "9c5cc7da-4bb7-4d67-b8e9-1db05986d929",
+      "name": "Hytale Union"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Proyectos/Casas/Biniatzent",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "9a54b306-2aea-4b80-91f8-4ba01903f888",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "b9bac107-61f8-4083-8dcb-0db42e961c6d",
+      "name": "Biniatzent"
+    }
+  ],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

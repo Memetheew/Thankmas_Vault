@@ -1,0 +1,31 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "IbLightning",
+      "FasFire",
+      "TiDeviceCameraPhone",
+      "FasStopwatch",
+      "FarCirclePause"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "Segments/4-Roundtable1-8,30PM.md": "LiMic",
+  "Segments/10-Roundtable2-12,30AM.md": "LiMic",
+  "Segments/12-Closing Ceremony-2AM.md": "RiCloseCircleLine",
+  "Segments/9-Break3-12AM.md": "FasStopwatch",
+  "Segments/5-Break2-10PM.md": "FasStopwatch",
+  "Segments/3-Break1-8PM.md": "FasStopwatch"
+}

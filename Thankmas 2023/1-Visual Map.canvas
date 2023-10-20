@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"5b4591b215ca47df","type":"file","file":"Resources/Power Hour.png","x":406,"y":-104,"width":1028,"height":578},
+		{"id":"1b5422904a4c975d","type":"file","file":"Resources/Roundtable.jpg","x":2360,"y":-39,"width":800,"height":448},
+		{"id":"28743d5619918de6","type":"file","file":"Segments/7-Misc-11PM.md","x":5520,"y":-15,"width":400,"height":400,"color":"2"},
+		{"id":"875cbceec78f1da9","type":"file","file":"Segments/3-Break1-8PM.md","x":1800,"y":278,"width":400,"height":400},
+		{"id":"882ceafe8bfc60eb","type":"file","file":"Segments/5-Break2-10PM.md","x":3520,"y":278,"width":400,"height":400},
+		{"id":"9330786e4c8dd1a2","type":"file","file":"Segments/9-Break3-12AM.md","x":7200,"y":398,"width":400,"height":400},
+		{"id":"6b159cd03ff7986a","type":"file","file":"Resources/Thankmas_coin.png","x":-1051,"y":-123,"width":1095,"height":616},
+		{"id":"56ddd96155a8d490","type":"file","file":"Resources/server_poster.png","x":4080,"y":-126,"width":1107,"height":623},
+		{"id":"4a0ca53e43430727","type":"file","file":"Resources/Gameshow-of-Gameshows-Web-Banner1-aspect-ratio-1-1.webp","x":6086,"y":-196,"width":754,"height":754},
+		{"id":"60d47360debcb662","type":"file","file":"Resources/Roundtable.jpg","x":7940,"y":-99,"width":1000,"height":560},
+		{"id":"85a9401bbc97ce43","type":"file","file":"Segments/11-Casual Gaming-1,30AM.md","x":9480,"y":-19,"width":400,"height":400,"color":"6"},
+		{"id":"808f04f6918d3be3","type":"file","file":"Resources/Thankmas_end.webp","x":10200,"y":-192,"width":1396,"height":746},
+		{"id":"6923f439b64e1ad7","type":"file","file":"Segments/1-Welcome wagon-6PM.md","x":-156,"y":418,"width":400,"height":520,"color":"5"},
+		{"id":"ac73c5e423f0992f","type":"file","file":"Segments/2-Power Hour-7PM.md","subpath":"#^4fe28f","x":1239,"y":418,"width":390,"height":520,"color":"1"},
+		{"id":"03d4517757bc665a","type":"file","file":"Segments/4-Roundtable1-8,30PM.md","subpath":"#^ac3ac1","x":2960,"y":418,"width":400,"height":520,"color":"4"},
+		{"id":"bb4fc73b10b8d35e","type":"file","file":"Segments/6-Server Session-10,30PM.md","x":4880,"y":418,"width":400,"height":520,"color":"6"},
+		{"id":"470513b1fee5fd73","type":"file","file":"Segments/8-Gameshow-11,15PM.md","x":6640,"y":418,"width":400,"height":520,"color":"2"},
+		{"id":"1280705c44e51206","type":"file","file":"Segments/10-Roundtable2-12,30AM.md","x":8800,"y":418,"width":400,"height":520,"color":"4"},
+		{"id":"e861ee2f2956b001","type":"file","file":"Segments/12-Closing Ceremony-2AM.md","x":11396,"y":418,"width":400,"height":520,"color":"5"}
+	],
+	"edges":[
+		{"id":"b90590bf1c3f4f0f","fromNode":"6b159cd03ff7986a","fromSide":"right","toNode":"5b4591b215ca47df","toSide":"left","color":"4"},
+		{"id":"dcb63ef640aba98b","fromNode":"5b4591b215ca47df","fromSide":"right","toNode":"1b5422904a4c975d","toSide":"left","color":"1","label":"BREAK"},
+		{"id":"07bfd0f770c63282","fromNode":"1b5422904a4c975d","fromSide":"right","toNode":"56ddd96155a8d490","toSide":"left","color":"1","label":"BREAK"},
+		{"id":"b797d6223ecff78f","fromNode":"56ddd96155a8d490","fromSide":"right","toNode":"28743d5619918de6","toSide":"left","color":"4"},
+		{"id":"3ca36aaa5da83370","fromNode":"28743d5619918de6","fromSide":"right","toNode":"4a0ca53e43430727","toSide":"left","color":"4"},
+		{"id":"a43a64d97bcd466b","fromNode":"4a0ca53e43430727","fromSide":"right","toNode":"60d47360debcb662","toSide":"left","color":"1","label":"BREAK"},
+		{"id":"7dec2a838cf027b3","fromNode":"85a9401bbc97ce43","fromSide":"right","toNode":"808f04f6918d3be3","toSide":"left","color":"4"},
+		{"id":"cc2a279d3f57b82a","fromNode":"60d47360debcb662","fromSide":"right","toNode":"85a9401bbc97ce43","toSide":"left","color":"4"}
+	]
+}
