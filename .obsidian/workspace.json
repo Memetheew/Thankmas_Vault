@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Xanderhal.md",
+                "file": "People/EFS3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Xanderhal.md",
+                "file": "People/EFS3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Xanderhal.md",
+                "file": "People/EFS3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Xanderhal.md"
+                "file": "People/EFS3.md"
               }
             }
           },
@@ -162,8 +162,9 @@
   },
   "active": "e4ff5206f58999f6",
   "lastOpenFiles": [
-    "People/Violet.md",
     "People/Xanderhal.md",
+    "People/EFS3.md",
+    "People/Violet.md",
     "People/ThirtyVirus.md",
     "People/tacticalshroom.md",
     "People/Slamma.md",
@@ -189,7 +190,6 @@
     "Pleaseworkpleaseworkpleasework.md",
     "PErosiguEfunCioNanDono.md",
     "Segments/Sub-Segments/Save The Kweebecs 2.0.md",
-    "Segments/Sub-Segments/Mob Mashup.md",
     "Resources/Random Images/Pasted Image 20231019132234_408.png",
     "Pasted Image 20231019111125_854.png",
     "Pasted Image 20231019111358_942.png",
