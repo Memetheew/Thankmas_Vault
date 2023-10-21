@@ -5,6 +5,6 @@
 # Individual Incentives
 - Any$ - Wall of fame
 - 15$ - Server Whitelist (provide username)
-- Key Art Segment (200$ Milestone)
+- Special Art Segment ;) (200$ Milestone)
 - Top Dono 1st Half -->
 - Top Dono 2nd Half -->
