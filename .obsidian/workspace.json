@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segments/11-Casual Gaming-1,30AM.md",
+                "file": "Segments/Sub-Segments/Hytale Awards.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segments/11-Casual Gaming-1,30AM.md",
+                "file": "Segments/Sub-Segments/Hytale Awards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segments/11-Casual Gaming-1,30AM.md",
+                "file": "Segments/Sub-Segments/Hytale Awards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segments/11-Casual Gaming-1,30AM.md"
+                "file": "Segments/Sub-Segments/Hytale Awards.md"
               }
             }
           },
@@ -207,6 +207,9 @@
   },
   "active": "1f19f6d98ba38b6b",
   "lastOpenFiles": [
+    "Segments/Sub-Segments/Build Competition.md",
+    "Segments/12-Closing Ceremony-2AM.md",
+    "Segments/11-Casual Gaming-1,30AM.md",
     "Segments/10-Roundtable2-12,10AM.md",
     "Segments/8-Gameshow-11,15PM.md",
     "Segments/4-Roundtable1-8,10PM.md",
@@ -219,7 +222,6 @@
     "Resources/Goals.md",
     "People/BlitzStrike.md",
     "Resources/Assets List.md",
-    "Segments/Sub-Segments/Build Competition.md",
     "Segments/7-Misc-11PM.md",
     "Segments/Sub-Segments/Hytale Awards.md",
     "Thankmas bundle.md",
@@ -232,8 +234,6 @@
     "People/CrimzonKrow.md",
     "People/Xanderhal.md",
     "People/Violet.md",
-    "People/ThirtyVirus.md",
-    "People/tacticalshroom.md",
     "Resources/Random Images",
     "Resources/Random Images/Pasted Image 20231019132234_408.png",
     "Pasted Image 20231019111125_854.png",
