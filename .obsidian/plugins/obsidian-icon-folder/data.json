@@ -24,8 +24,6 @@
     "iconInTitleEnabled": false,
     "iconsBackgroundCheckEnabled": false
   },
-  "Segments/4-Roundtable1-8,30PM.md": "LiMic",
-  "Segments/10-Roundtable2-12,30AM.md": "LiMic",
   "Segments/12-Closing Ceremony-2AM.md": "RiCloseCircleLine",
   "Segments/9-Break3-12AM.md": "FasStopwatch",
   "Segments/5-Break2-10PM.md": "FasStopwatch",
@@ -36,5 +34,7 @@
   "People/BlitzStrike.md": "IbLightning",
   "Segments/Sub-Segments/Hytale Awards.md": "RiTrophyLine",
   "Segments/Sub-Segments/Build Competition.md": "LiBoxes",
-  "People/Memetheew.md": "RiVipCrownFill"
+  "People/Memetheew.md": "RiVipCrownFill",
+  "Segments/4-Roundtable1-8,10PM.md": "LiMic",
+  "Segments/10-Roundtable2-12,10AM.md": "LiMic"
 }

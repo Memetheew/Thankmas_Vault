@@ -12,9 +12,9 @@ tags: [excalidraw]
 
 [[2-Power Hour-10PM]] ^h3IzpY4t
 
-[[4-Roundtable1-8,30PM]] ^YTWHvLdG
+[[4-Roundtable1-8,10PM]] ^YTWHvLdG
 
-[[6-Server Session-10,30PM]] ^GEyr1Wl4
+[[6-Server Session-10,10PM]] ^GEyr1Wl4
 
 18:00- ^Mi21wnMf
 
@@ -30,7 +30,7 @@ tags: [excalidraw]
 
 24:00- ^nCMF1WKz
 
-[[10-Roundtable2-12,30AM]] ^SskW3ZU0
+[[10-Roundtable2-12,10AM]] ^SskW3ZU0
 
 [[11-Casual Gaming-1,30AM]] ^JvaQE7sh
 
@@ -38,19 +38,19 @@ tags: [excalidraw]
 
 2:00- ^o34MUjiD
 
-[[4-Roundtable1-8,30PM]] ^5IaOXnx3
+[[4-Roundtable1-8,10PM]] ^5IaOXnx3
 
 [[1-Welcome wagon-6PM]] ^bba2g2UH
 
 [[2-Power Hour-10PM]] ^wONKwcVD
 
-[[6-Server Session-10,30PM]] ^hGEPfnaC
+[[6-Server Session-10,10PM]] ^hGEPfnaC
 
 [[7-Misc-11PM]] ^VdGpJclV
 
 [[8-Gameshow-11,15PM]] ^B2VofQMN
 
-[[10-Roundtable2-12,30AM]] ^ITAoVijC
+[[10-Roundtable2-12,10AM]] ^ITAoVijC
 
 [[11-Casual Gaming-1,30AM]] ^4ZC97sMi
 
@@ -104,8 +104,8 @@ tags: [excalidraw]
 	"elements": [
 		{
 			"type": "embeddable",
-			"version": 314,
-			"versionNonce": 819585055,
+			"version": 315,
+			"versionNonce": 819585056,
 			"isDeleted": false,
 			"id": "5IaOXnx3",
 			"fillStyle": "hachure",
@@ -131,14 +131,14 @@ tags: [excalidraw]
 				}
 			],
 			"updated": 1697874838022,
-			"link": "[[4-Roundtable1-8,30PM]]",
+			"link": "[[4-Roundtable1-8,10PM]]",
 			"locked": false,
 			"validated": true
 		},
 		{
 			"type": "embeddable",
-			"version": 185,
-			"versionNonce": 1246426449,
+			"version": 186,
+			"versionNonce": 911043597,
 			"isDeleted": false,
 			"id": "bba2g2UH",
 			"fillStyle": "hachure",
@@ -187,7 +187,7 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697874838022,
+			"updated": 1698095936393,
 			"link": "[[1-Welcome wagon-6PM]]",
 			"locked": false,
 			"validated": true
@@ -231,8 +231,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "embeddable",
-			"version": 309,
-			"versionNonce": 12722993,
+			"version": 310,
+			"versionNonce": 815327043,
 			"isDeleted": false,
 			"id": "wONKwcVD",
 			"fillStyle": "hachure",
@@ -265,15 +265,15 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697874838022,
+			"updated": 1698095936393,
 			"link": "[[2-Power Hour-10PM]]",
 			"locked": false,
 			"validated": true
 		},
 		{
 			"type": "embeddable",
-			"version": 342,
-			"versionNonce": 2118755423,
+			"version": 343,
+			"versionNonce": 1866359405,
 			"isDeleted": false,
 			"id": "VEeI22yu",
 			"fillStyle": "hachure",
@@ -298,15 +298,15 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697874838022,
+			"updated": 1698095936393,
 			"link": "[[2-Power Hour-10PM#Animated Segment]]",
 			"locked": false,
 			"validated": true
 		},
 		{
 			"type": "embeddable",
-			"version": 371,
-			"versionNonce": 534287633,
+			"version": 372,
+			"versionNonce": 1948321507,
 			"isDeleted": false,
 			"id": "HUyXbWYC",
 			"fillStyle": "hachure",
@@ -331,7 +331,7 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697874838022,
+			"updated": 1698095936393,
 			"link": "[[2-Power Hour-10PM#Discussions]]",
 			"locked": false,
 			"validated": true
@@ -407,23 +407,23 @@ tags: [excalidraw]
 				}
 			],
 			"updated": 1697874838022,
-			"link": "[[4-Roundtable1-8,30PM]]",
+			"link": "[[4-Roundtable1-8,10PM]]",
 			"locked": false,
 			"fontSize": 36,
 			"fontFamily": 2,
-			"text": "📍[[4-Roundtable1-8,30PM]]",
-			"rawText": "[[4-Roundtable1-8,30PM]]",
+			"text": "📍[[4-Roundtable1-8,10PM]]",
+			"rawText": "[[4-Roundtable1-8,10PM]]",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "📍[[4-Roundtable1-8,30PM]]",
+			"originalText": "📍[[4-Roundtable1-8,10PM]]",
 			"lineHeight": 1.15,
 			"baseline": 33
 		},
 		{
 			"type": "embeddable",
-			"version": 266,
-			"versionNonce": 423975071,
+			"version": 268,
+			"versionNonce": 528583885,
 			"isDeleted": false,
 			"id": "hGEPfnaC",
 			"fillStyle": "hachure",
@@ -456,8 +456,8 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697874838022,
-			"link": "[[6-Server Session-10,30PM]]",
+			"updated": 1698095936393,
+			"link": "[[6-Server Session-10,10PM]]",
 			"locked": false,
 			"validated": true
 		},
@@ -490,16 +490,16 @@ tags: [excalidraw]
 				}
 			],
 			"updated": 1697874838022,
-			"link": "[[6-Server Session-10,30PM]]",
+			"link": "[[6-Server Session-10,10PM]]",
 			"locked": false,
 			"fontSize": 36,
 			"fontFamily": 2,
-			"text": "📍[[6-Server Session-10,30PM]]",
-			"rawText": "[[6-Server Session-10,30PM]]",
+			"text": "📍[[6-Server Session-10,10PM]]",
+			"rawText": "[[6-Server Session-10,10PM]]",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "📍[[6-Server Session-10,30PM]]",
+			"originalText": "📍[[6-Server Session-10,10PM]]",
 			"lineHeight": 1.15,
 			"baseline": 33
 		},
@@ -853,8 +853,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "embeddable",
-			"version": 105,
-			"versionNonce": 1341596209,
+			"version": 106,
+			"versionNonce": 1019490947,
 			"isDeleted": false,
 			"id": "VdGpJclV",
 			"fillStyle": "hachure",
@@ -883,7 +883,7 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697874838022,
+			"updated": 1698095936393,
 			"link": "[[7-Misc-11PM]]",
 			"locked": false,
 			"validated": true
@@ -928,12 +928,12 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "📍[[7-Misc-11PM]]",
 			"lineHeight": 1.15,
-			"baseline": 47
+			"baseline": 46
 		},
 		{
 			"type": "embeddable",
-			"version": 157,
-			"versionNonce": 1578480657,
+			"version": 158,
+			"versionNonce": 112225069,
 			"isDeleted": false,
 			"id": "B2VofQMN",
 			"fillStyle": "hachure",
@@ -958,7 +958,7 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697874838023,
+			"updated": 1698095936393,
 			"link": "[[8-Gameshow-11,15PM]]",
 			"locked": false,
 			"validated": true
@@ -1007,8 +1007,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "embeddable",
-			"version": 113,
-			"versionNonce": 843516401,
+			"version": 114,
+			"versionNonce": 1262545443,
 			"isDeleted": false,
 			"id": "ITAoVijC",
 			"fillStyle": "hachure",
@@ -1033,7 +1033,7 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697874838023,
+			"updated": 1698095936393,
 			"link": "[[10-Roundtable2-12,30AM]]",
 			"locked": false,
 			"validated": true
@@ -1082,8 +1082,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "embeddable",
-			"version": 97,
-			"versionNonce": 93496273,
+			"version": 98,
+			"versionNonce": 892632461,
 			"isDeleted": false,
 			"id": "4ZC97sMi",
 			"fillStyle": "hachure",
@@ -1116,7 +1116,7 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697874838023,
+			"updated": 1698095936393,
 			"link": "[[11-Casual Gaming-1,30AM]]",
 			"locked": false,
 			"validated": true
@@ -1165,8 +1165,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "embeddable",
-			"version": 146,
-			"versionNonce": 68157873,
+			"version": 147,
+			"versionNonce": 1149611459,
 			"isDeleted": false,
 			"id": "NIFIT9fj",
 			"fillStyle": "hachure",
@@ -1199,7 +1199,7 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697874838023,
+			"updated": 1698095936393,
 			"link": "[[12-Closing Ceremony-2AM]]",
 			"locked": false,
 			"validated": true
@@ -1248,8 +1248,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "embeddable",
-			"version": 747,
-			"versionNonce": 1793500049,
+			"version": 748,
+			"versionNonce": 1917273069,
 			"isDeleted": false,
 			"id": "LGSfGl73",
 			"fillStyle": "hachure",
@@ -1274,15 +1274,15 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697874838023,
+			"updated": 1698095936393,
 			"link": "[[1-Welcome wagon-6PM#Pre Recorded Establishing Video]]",
 			"locked": false,
 			"validated": true
 		},
 		{
 			"type": "embeddable",
-			"version": 478,
-			"versionNonce": 385079807,
+			"version": 479,
+			"versionNonce": 733019491,
 			"isDeleted": false,
 			"id": "THZTjApe",
 			"fillStyle": "hachure",
@@ -1307,15 +1307,15 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697874838023,
+			"updated": 1698095936393,
 			"link": "[[1-Welcome wagon-6PM#Intro, Causes & Contents]]",
 			"locked": false,
 			"validated": true
 		},
 		{
 			"type": "embeddable",
-			"version": 485,
-			"versionNonce": 1716390257,
+			"version": 486,
+			"versionNonce": 1643265613,
 			"isDeleted": false,
 			"id": "RFJuiSNk",
 			"fillStyle": "hachure",
@@ -1340,15 +1340,15 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697874838023,
+			"updated": 1698095936393,
 			"link": "[[1-Welcome wagon-6PM#Dono Goals & Rewards]]",
 			"locked": false,
 			"validated": true
 		},
 		{
 			"type": "embeddable",
-			"version": 427,
-			"versionNonce": 1954955807,
+			"version": 428,
+			"versionNonce": 470898947,
 			"isDeleted": false,
 			"id": "80BxH93m",
 			"fillStyle": "hachure",
@@ -1373,15 +1373,15 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697874838023,
+			"updated": 1698095936393,
 			"link": "[[1-Welcome wagon-6PM#5 Year Anniversary]]",
 			"locked": false,
 			"validated": true
 		},
 		{
 			"type": "embeddable",
-			"version": 467,
-			"versionNonce": 797815633,
+			"version": 468,
+			"versionNonce": 1796140205,
 			"isDeleted": false,
 			"id": "1VefDRX6",
 			"fillStyle": "hachure",
@@ -1406,7 +1406,7 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697874838023,
+			"updated": 1698095936393,
 			"link": "[[1-Welcome wagon-6PM#Server Kick-Off]]",
 			"locked": false,
 			"validated": true
@@ -2545,8 +2545,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "embeddable",
-			"version": 248,
-			"versionNonce": 1652328433,
+			"version": 249,
+			"versionNonce": 1126514851,
 			"isDeleted": false,
 			"id": "8vyjOvl4",
 			"fillStyle": "hachure",
@@ -2571,15 +2571,15 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697874838023,
+			"updated": 1698095936393,
 			"link": "[[Mob Mashup#Mob Mashup Revisit]]",
 			"locked": false,
 			"validated": true
 		},
 		{
 			"type": "embeddable",
-			"version": 774,
-			"versionNonce": 2003102623,
+			"version": 775,
+			"versionNonce": 1564921613,
 			"isDeleted": false,
 			"id": "2ZEmE8nU",
 			"fillStyle": "hachure",
@@ -2604,7 +2604,7 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697874838023,
+			"updated": 1698095936393,
 			"link": "[[Mob Mashup#Mob Mashup KickOff]]",
 			"locked": false,
 			"validated": true
@@ -2667,8 +2667,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "embeddable",
-			"version": 183,
-			"versionNonce": 1948524479,
+			"version": 184,
+			"versionNonce": 446379075,
 			"isDeleted": false,
 			"id": "co5Re5vA",
 			"fillStyle": "hachure",
@@ -2693,15 +2693,15 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697874838023,
+			"updated": 1698095936393,
 			"link": "[[Save The Kweebecs 2.0]]",
 			"locked": false,
 			"validated": true
 		},
 		{
 			"type": "embeddable",
-			"version": 349,
-			"versionNonce": 1736310705,
+			"version": 350,
+			"versionNonce": 1460888941,
 			"isDeleted": false,
 			"id": "OjpUeCed",
 			"fillStyle": "hachure",
@@ -2726,15 +2726,15 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697874838023,
+			"updated": 1698095936393,
 			"link": "[[Save The Kweebecs 2.0]]",
 			"locked": false,
 			"validated": true
 		},
 		{
 			"type": "embeddable",
-			"version": 139,
-			"versionNonce": 1462226911,
+			"version": 140,
+			"versionNonce": 1649521635,
 			"isDeleted": false,
 			"id": "SJ6iyCyX",
 			"fillStyle": "hachure",
@@ -2759,15 +2759,15 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697874838023,
+			"updated": 1698095936393,
 			"link": "[[Build Competition#Build Competition Revisit]]",
 			"locked": false,
 			"validated": true
 		},
 		{
 			"type": "embeddable",
-			"version": 399,
-			"versionNonce": 1810162065,
+			"version": 400,
+			"versionNonce": 1807626189,
 			"isDeleted": false,
 			"id": "5Fprl6v7",
 			"fillStyle": "hachure",
@@ -2792,15 +2792,15 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697874838023,
+			"updated": 1698095936393,
 			"link": "[[Build Competition#Build Competition Revisit]]",
 			"locked": false,
 			"validated": true
 		},
 		{
 			"type": "embeddable",
-			"version": 400,
-			"versionNonce": 1518369791,
+			"version": 401,
+			"versionNonce": 1515667331,
 			"isDeleted": false,
 			"id": "WUHQeS2H",
 			"fillStyle": "hachure",
@@ -2825,7 +2825,7 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697874838023,
+			"updated": 1698095936393,
 			"link": "[[Build Competition#Build Competition Start]]",
 			"locked": false,
 			"validated": true
@@ -2944,8 +2944,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "embeddable",
-			"version": 285,
-			"versionNonce": 1486123345,
+			"version": 286,
+			"versionNonce": 157330989,
 			"isDeleted": false,
 			"id": "AIUt8cSH",
 			"fillStyle": "hachure",
@@ -2970,15 +2970,15 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697874838023,
+			"updated": 1698095936393,
 			"link": "[[Hytale Awards]]",
 			"locked": false,
 			"validated": true
 		},
 		{
 			"type": "embeddable",
-			"version": 262,
-			"versionNonce": 2116208703,
+			"version": 263,
+			"versionNonce": 1021990691,
 			"isDeleted": false,
 			"id": "j78VOMpT",
 			"fillStyle": "hachure",
@@ -3003,7 +3003,7 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1697874838023,
+			"updated": 1698095936393,
 			"link": "[[Thank You & Credits]]",
 			"locked": false,
 			"validated": true
@@ -3178,8 +3178,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "embeddable",
-			"version": 181,
-			"versionNonce": 1515127935,
+			"version": 182,
+			"versionNonce": 518283405,
 			"isDeleted": false,
 			"id": "WN6fpCmD",
 			"fillStyle": "hachure",
@@ -3199,7 +3199,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1697874838023,
+			"updated": 1698095936393,
 			"link": "[[Goals]]",
 			"locked": false,
 			"validated": true
