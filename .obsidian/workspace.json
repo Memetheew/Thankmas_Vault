@@ -31,11 +31,9 @@
             "id": "1f19f6d98ba38b6b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Segments/Sub-Segments/Build Competition.md",
-                "mode": "source",
-                "source": false
+                "file": "Visual Map.md"
               }
             }
           },
@@ -130,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segments/Sub-Segments/Build Competition.md",
+                "file": "Visual Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segments/Sub-Segments/Build Competition.md",
+                "file": "Visual Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segments/Sub-Segments/Build Competition.md"
+                "file": "Visual Map.md"
               }
             }
           },
@@ -207,9 +205,9 @@
   },
   "active": "1f19f6d98ba38b6b",
   "lastOpenFiles": [
+    "Segments/Sub-Segments/Build Competition.md",
     "Segments/12-Closing Ceremony-2AM.md",
     "Segments/Sub-Segments/Hytale Awards.md",
-    "Segments/Sub-Segments/Build Competition.md",
     "Segments/11-Casual Gaming-1,30AM.md",
     "Segments/10-Roundtable2-12,10AM.md",
     "Segments/8-Gameshow-11,15PM.md",
