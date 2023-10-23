@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segments/4-Roundtable1-8,10PM.md",
+                "file": "Segments/11-Casual Gaming-1,30AM.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segments/4-Roundtable1-8,10PM.md",
+                "file": "Segments/11-Casual Gaming-1,30AM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segments/4-Roundtable1-8,10PM.md",
+                "file": "Segments/11-Casual Gaming-1,30AM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segments/4-Roundtable1-8,10PM.md"
+                "file": "Segments/11-Casual Gaming-1,30AM.md"
               }
             }
           },
@@ -207,9 +207,10 @@
   },
   "active": "1f19f6d98ba38b6b",
   "lastOpenFiles": [
-    "Visual Map.md",
     "Segments/10-Roundtable2-12,10AM.md",
+    "Segments/8-Gameshow-11,15PM.md",
     "Segments/4-Roundtable1-8,10PM.md",
+    "Visual Map.md",
     "Segments/6-Server Session-10,10PM.md",
     "Segments/Sub-Segments/Mob Mashup.md",
     "Segments/3-Break1-8PM.md",
@@ -233,7 +234,6 @@
     "People/Violet.md",
     "People/ThirtyVirus.md",
     "People/tacticalshroom.md",
-    "People/Slamma.md",
     "Resources/Random Images",
     "Resources/Random Images/Pasted Image 20231019132234_408.png",
     "Pasted Image 20231019111125_854.png",
