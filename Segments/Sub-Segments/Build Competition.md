@@ -13,7 +13,7 @@ Connor will review all builds and the winner will be decided by the COUNCIL
 - Hugo makes everone unable to place or break blocks
 - Connor reviews each and every build
 - The Council decides the winner and prizes are sent
-# Segment Esplanation
+# Segment Explanation
 
 # Roles
 ## Developer
