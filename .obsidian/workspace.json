@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segments/4-Roundtable1-8,10PM.md",
+                "file": "Segments/12-Closing Ceremony-2AM.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segments/4-Roundtable1-8,10PM.md",
+                "file": "Segments/12-Closing Ceremony-2AM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segments/4-Roundtable1-8,10PM.md",
+                "file": "Segments/12-Closing Ceremony-2AM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segments/4-Roundtable1-8,10PM.md"
+                "file": "Segments/12-Closing Ceremony-2AM.md"
               }
             }
           },
@@ -207,6 +207,14 @@
   },
   "active": "1f19f6d98ba38b6b",
   "lastOpenFiles": [
+    "Segments/11-Casual Gaming-1,30AM.md",
+    "Segments/10-Roundtable2-12,10AM.md",
+    "Segments/9-Break3-12AM.md",
+    "Segments/8-Gameshow-11,15PM.md",
+    "Segments/7-Misc-11PM.md",
+    "Segments/6-Server Session-10,10PM.md",
+    "Segments/5-Break2-10PM.md",
+    "Segments/4-Roundtable1-8,10PM.md",
     "Segments/3-Break1-8PM.md",
     "Segments/2-Power Hour-10PM.md",
     "Segments/1-Welcome wagon-6PM.md",
@@ -214,26 +222,18 @@
     "Segments/Sub-Segments/Build Competition.md",
     "Segments/12-Closing Ceremony-2AM.md",
     "Segments/Sub-Segments/Hytale Awards.md",
-    "Segments/11-Casual Gaming-1,30AM.md",
-    "Segments/10-Roundtable2-12,10AM.md",
-    "Segments/8-Gameshow-11,15PM.md",
-    "Segments/4-Roundtable1-8,10PM.md",
-    "Segments/6-Server Session-10,10PM.md",
     "Segments/Sub-Segments/Mob Mashup.md",
     "Resources/Goals.md",
     "People/BlitzStrike.md",
     "Resources/Assets List.md",
-    "Segments/7-Misc-11PM.md",
     "Thankmas bundle.md",
     "Segments/Sub-Segments/Save The Kweebecs 2.0.md",
     "Segments/Sub-Segments/Thank You & Credits.md",
-    "Segments/5-Break2-10PM.md",
     "1-Visual Map.canvas",
     "People/Myne.md",
     "People/EFS3.md",
     "People/CrimzonKrow.md",
     "People/Xanderhal.md",
-    "People/Violet.md",
     "Resources/Random Images",
     "Resources/Random Images/Pasted Image 20231019132234_408.png",
     "Pasted Image 20231019111125_854.png",
